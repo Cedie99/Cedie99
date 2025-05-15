@@ -1,7 +1,7 @@
 ## Hi, I'm Jhon Cedrick Ignacio 
 
 Information Technology Student at Polytechnic University of the Philippines <br/>
-I create full-stack web applications
+I create full-stack web applications <br/>
 Currently upskilling with AWS and Azure Cloud Services
 
 
